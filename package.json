@@ -2,6 +2,7 @@
   "name": "test_project",
   "version": "0.1.0",
   "private": true,
+  "keywords": [ "vuejs", "vue3.0+", "unit-test", "vue-test-utils", "mocha", "mocha-webpack", "chai", "sinon"],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -28,6 +29,7 @@
     "node-sass": "^4.9.0",
     "prettier": "^1.18.2",
     "sass-loader": "^7.1.0",
+    "sinon": "^7.5.0",
     "vue-template-compiler": "^2.6.10"
   }
 }
